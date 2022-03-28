@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Printer Library"
 include ':app'
+include ':PrinterLibrary'
